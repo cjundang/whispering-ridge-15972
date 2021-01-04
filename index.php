@@ -20,7 +20,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
-                <img src="http://cjundang.me/assets/img/profile.jpg" 
+                <img src="profile.jpg" 
                     class="img-thumbnail" 
                     style="width: 50%; height: auto;"
                 />
